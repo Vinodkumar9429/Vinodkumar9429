@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vinodkumar9429.
-- 👀 I’m interested in Web Development / Front-End Development.
-- 🌱 I’m currently learning Front-End Development And DSA with C++.
+- 👀 I’m a Web Development / Fullstack Developer.
+- 🌱 I’m currently learning backEnd Development.
+- 🎇 I'm proficient in Javascript based full stack development, MERN to be specific.
 - 📫 To reach me, use my email : umr09347@gmail.com
 - 😄 Pronouns: He/Him
 
