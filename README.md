@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning backEnd Development.
 - 🎇 I'm proficient in Javascript based full stack development, PERN to be specific.
 - 📫 To reach me, use my email : umr09347@gmail.com
+- ❄ I don't dump everything here, but when I do, It slaps
+- ✈ My tech stack : React, Typescript, NextJS, Tailwind, Zustand, TanstackQuery, ShadCNUI, GSAP, NodeJS, ExpressJS, Prisma, PostgreSQL, JWT
 - 😄 Pronouns: He/Him
 
 
