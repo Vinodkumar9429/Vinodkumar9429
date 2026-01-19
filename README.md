@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Vinodkumar9429.
 - 👀 I’m a Web Developer / Fullstack Developer.
-- 🌱 I’m currently learning backEnd Development.
-- 🎇 I'm proficient in Javascript based full stack development, PERN to be specific.
-- 📫 To reach me, use my email : umr09347@gmail.com
+- 🎇 I'm proficient in Typescript First Full Stack Development, PERN to be specific.
 - ❄ I don't dump everything here, but when I do, It slaps
 - ✈ My tech stack : React, Typescript, NextJS, Tailwind, Zustand, TanstackQuery, ShadCNUI, GSAP, NodeJS, ExpressJS, Prisma, PostgreSQL, JWT
 - 😄 Pronouns: He/Him
+- 📫 To reach me, use my email : umr09347@gmail.com
 
 
 <!---
